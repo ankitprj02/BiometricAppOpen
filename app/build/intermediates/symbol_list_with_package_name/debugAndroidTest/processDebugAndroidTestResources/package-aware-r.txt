@@ -1,0 +1,3 @@
+in.ankitprj.biometric.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

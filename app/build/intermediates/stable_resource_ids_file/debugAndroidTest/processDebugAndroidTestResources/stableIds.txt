@@ -1,0 +1,2 @@
+in.ankitprj.biometric.test:style/WhiteBackgroundTheme = 0x7f010001
+in.ankitprj.biometric.test:style/WhiteBackgroundDialogTheme = 0x7f010000

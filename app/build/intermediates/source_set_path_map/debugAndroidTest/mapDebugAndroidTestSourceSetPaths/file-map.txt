@@ -1,0 +1,5 @@
+in.ankitprj.biometric.test.app-core-1.6.1-0 C:\Users\ankit\.gradle\caches\transforms-4\716a20b02f5383d477666df1423e99fe\transformed\core-1.6.1\res
+in.ankitprj.biometric.test.app-androidTest-1 C:\Users\ankit\AndroidStudioProjects\Biometric\app\build\generated\res\resValues\androidTest\debug
+in.ankitprj.biometric.test.app-mergeDebugAndroidTestResources-2 C:\Users\ankit\AndroidStudioProjects\Biometric\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+in.ankitprj.biometric.test.app-mergeDebugAndroidTestResources-3 C:\Users\ankit\AndroidStudioProjects\Biometric\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+in.ankitprj.biometric.test.app-debugAndroidTest-4 C:\Users\ankit\AndroidStudioProjects\Biometric\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
