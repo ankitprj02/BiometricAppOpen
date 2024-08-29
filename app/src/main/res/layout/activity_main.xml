@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:layout_width="75dp"
+        android:layout_height="100dp"
+        android:src="@drawable/ic_fingerprint"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:id="@+id/txt_info"
+        />
+
+    <Button
+        android:id="@+id/btn_fp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Login Fingerprint"
+        android:backgroundTint="#00796B"/>
+
+    <Button
+        android:id="@+id/btn_fppin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Login Fingerprint + PIN"/>
+
+
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>
